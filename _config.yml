@@ -1,0 +1,28 @@
+name: Mindful Labs
+favicon: null
+layout_spectrum: 0.04682091670110822
+typography_spectrum: 0.5048443484120071
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.19112867466174066
+  lightness: 0.9216078671161085
+  saturation: 0.07901198579929769
+  rhythmicContrast: 0.10069205262698233
+purpose: []
